@@ -20,8 +20,8 @@ Project Play takes a serious topic and aims to make it fun and engaging to learn
 - [x] Appealing and fun website design 
 - [x] Responsive website built with Vue
 - [x] Include videos on website
-- [] Back-end user login system
-- [] User dashboard which includes editing information, creating and deleting a user
+- [ ] Back-end user login system
+- [ ] User dashboard which includes editing information, creating and deleting a user
 
 ## Live Demo
 [View a live demo of the site](https://arianablake-projectplay.netlify.app/)
