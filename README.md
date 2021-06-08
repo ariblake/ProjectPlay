@@ -4,11 +4,11 @@ This is the final integrated project for semester two at Fanshawe College. The i
 Project Play takes a serious topic and aims to make it fun and engaging to learn about in order to appeal to the target audience. Our campaign focuses on three main topics; safe sex, stigma, and testing. Project Play emphasizes these with the following taglines: Play Safe, Play Fair, and Play Smart.
 
 ## Authors
-* **Ariana Blake** (https://github.com/ariblake)
-* **Sarah Conway** (https://github.com/sarahconway69704)
-* **Hillary Strong** (https://github.com/hillary25)
-* **Ryan (Anqi) Sun** (https://github.com/unscientifi)
-* **Yasmina Tavares** (https://github.com/yasminamayot)
+* **Ariana Blake** (https://github.com/ariblake) - Front-end Developer
+* **Sarah Conway** (https://github.com/sarahconway69704) - Motion Designer
+* **Hillary Strong** (https://github.com/hillary25) - Project Manager
+* **Ryan (Anqi) Sun** (https://github.com/unscientifi) - Back-end Developer
+* **Yasmina Tavares** (https://github.com/yasminamayot) - Graphic Designer
 
 ## Built With
 * [Bootstrap](https://getbootstrap.com) - Responsive Front-End Framework
@@ -17,10 +17,14 @@ Project Play takes a serious topic and aims to make it fun and engaging to learn
 * [PHP](https://www.php.net/) - Programming Language
 
 ## Things We Wanted to Achieve
+- [x] Appealing and fun website design 
 - [x] Responsive website built with Vue
 - [x] Include videos on website
-- [x] Back-end user login system
-- [x] User dashboard which includes editing information, creating and deleting a user
+- [] Back-end user login system
+- [] User dashboard which includes editing information, creating and deleting a user
+
+## Live Demo
+[View a live demo of the site](https://arianablake-projectplay.netlify.app/)
 
 ## Installation
 Open Terminal on your computer and change your directory to htdocs.
